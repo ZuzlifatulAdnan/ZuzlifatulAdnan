@@ -46,4 +46,4 @@ Saat ini, saya mendedikasikan waktu saya untuk beberapa area kunci untuk pertumb
 
 Anda bisa menemukan saya di:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nama-linkedin-anda/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zuzlifatul-adnan/)
