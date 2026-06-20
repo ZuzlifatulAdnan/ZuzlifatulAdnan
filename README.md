@@ -1,49 +1,123 @@
-### Halo, saya Zuzlifatul Adnan 👋
+<!-- ====== BANNER ====== -->
+<div align="center">
 
-Saya seorang **Full-Stack Developer** yang berfokus pada pengembangan aplikasi web dan mobile. Saya memiliki pengalaman kuat dengan ekosistem PHP dan menikmati eksplorasi teknologi baru.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Zuzlifatul%20Adnan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=18" alt="banner" />
+
+<!-- ====== TYPING ANIMATION ====== -->
+<a href="https://github.com/ZuzlifatulAdnan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Laravel+%26+PHP+Enthusiast+%F0%9F%92%9C;Belajar+Flutter+%26+Dart+%F0%9F%93%B1;Selalu+ingin+belajar+hal+baru+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<!-- ====== PROFILE VIEWS & FOLLOWERS ====== -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ZuzlifatulAdnan&label=Profile%20Views&color=8B5CF6&style=flat" alt="profile views" />
+  <a href="https://github.com/ZuzlifatulAdnan?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZuzlifatulAdnan?label=Followers&style=flat&color=6366F1" alt="followers" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-### 👨‍💻 Tentang Saya
+## 👋 Tentang Saya
 
-- 🌱 Saat ini saya sedang mendalami **Bahasa Dart** untuk pengembangan mobile lintas platform.
-- 🔭 Saya aktif mengembangkan dan memperdalam keahlian saya dalam **Framework Laravel**.
-- 💬 Tanya saya tentang **PHP, Laravel, dan Kotlin**.
-- 📫 Cara menghubungi saya: **juslifatuladnan@gmail.com**.
+```typescript
+const zuzlifatul = {
+    role: "Full-Stack Developer",
+    location: "Indonesia 🇮🇩",
+    focus: ["Web Development", "Mobile Development"],
+    currentlyLearning: ["Dart", "Flutter"],
+    expertise: ["PHP", "Laravel", "Kotlin"],
+    mindset: "Eksplorasi teknologi baru tanpa henti",
+};
+```
+
+- 🔭 Aktif mengembangkan dan memperdalam keahlian di **Framework Laravel**
+- 🌱 Saat ini sedang mendalami **Dart** & **Flutter** untuk pengembangan mobile lintas platform
+- 💬 Tanya saya tentang **PHP, Laravel, dan Kotlin**
+- ⚡ Fokus membangun **API yang robust & scalable** serta praktik **Test-Driven Development**
+- 📫 Hubungi saya: **juslifatuladnan@gmail.com**
 
 ---
 
-### 🛠️ Teknologi & Tools yang Saya Kuasai
+## 🛠️ Tech Stack
 
-Berikut adalah teknologi utama yang saya gunakan dalam proyek-proyek saya:
+<div align="center">
 
+### Languages
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-### 🎯 Fokus & Tujuan Saya Saat Ini
-
-Saat ini, saya mendedikasikan waktu saya untuk beberapa area kunci untuk pertumbuhan profesional:
-
-- **Memperdalam Keahlian Laravel:** Fokus membangun API yang *robust* dan *scalable* serta menerapkan praktik terbaik seperti TDD (Test-Driven Development).
-- **Menguasai Pengembangan Mobile:** Aktif belajar **Dart** dan framework **Flutter** dengan tujuan untuk dapat membangun aplikasi Android & iOS dari satu basis kode.
-- **Kontribusi Open-Source:** Mencari kesempatan untuk berkontribusi pada proyek *open-source* yang relevan dengan keahlian saya di PHP atau Kotlin.
+</div>
 
 ---
 
-### 📊 Statistik GitHub Saya
+## 🎯 Fokus & Tujuan Saat Ini
 
-[![Statistik GitHub Zuzlifatul Adnan](https://github-readme-stats.vercel.app/api?username=ZuzlifatulAdnan&rank_icon=github&hide=contribs&count_private=true&layout=compact&theme=tokyonight)](https://github.com/ZuzlifatulAdnan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuzlifatulAdnan&count_private=true&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/ZuzlifatulAdnan/)
+| Area | Deskripsi |
+| :--- | :--- |
+| 🔥 **Memperdalam Laravel** | Membangun API yang *robust* & *scalable* dengan praktik terbaik (TDD) |
+| 📱 **Mobile Development** | Menguasai **Dart** & **Flutter** untuk membangun aplikasi Android & iOS dari satu basis kode |
+| 🌍 **Open Source** | Berkontribusi pada proyek *open-source* yang relevan dengan PHP & Kotlin |
 
 ---
 
-### 📫 Hubungi Saya
+## 📊 Statistik GitHub
 
-Anda bisa menemukan saya di:
+<div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zuzlifatul-adnan/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZuzlifatulAdnan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuzlifatulAdnan&layout=compact&count_private=true&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ZuzlifatulAdnan&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ZuzlifatulAdnan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+
+</div>
+
+---
+
+## 📫 Hubungi Saya
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/zuzlifatul-adnan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:juslifatuladnan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/ZuzlifatulAdnan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ Dari [ZuzlifatulAdnan](https://github.com/ZuzlifatulAdnan) — _"Keep learning, keep building."_
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" alt="footer" />
+
+</div>
