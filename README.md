@@ -134,15 +134,17 @@ const zuzlifatul = {
 
 ---
 
-## 🐍 Kontribusi
+## 🧩 Ringkasan Profil
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZuzlifatulAdnan/ZuzlifatulAdnan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZuzlifatulAdnan/ZuzlifatulAdnan/output/github-snake.svg" />
-  <img alt="Snake animation kontribusi GitHub" src="https://raw.githubusercontent.com/ZuzlifatulAdnan/ZuzlifatulAdnan/output/github-snake.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZuzlifatulAdnan&theme=tokyonight" alt="Profile Details" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZuzlifatulAdnan&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZuzlifatulAdnan&theme=tokyonight" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZuzlifatulAdnan&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZuzlifatulAdnan&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 </div>
 
