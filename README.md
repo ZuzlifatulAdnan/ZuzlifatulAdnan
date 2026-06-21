@@ -1,7 +1,9 @@
-<!-- ====== BANNER ====== -->
+<!-- ====== HEADER ====== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Zuzlifatul%20Adnan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=18" alt="banner" />
+<h1>
+  Hi 👋, Saya Zuzlifatul Adnan
+</h1>
 
 <!-- ====== TYPING ANIMATION ====== -->
 <a href="https://github.com/ZuzlifatulAdnan">
@@ -14,6 +16,7 @@
   <a href="https://github.com/ZuzlifatulAdnan?tab=followers">
     <img src="https://img.shields.io/github/followers/ZuzlifatulAdnan?label=Followers&style=flat&color=6366F1" alt="followers" />
   </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=flat" alt="open to collaboration" />
 </p>
 
 </div>
@@ -49,6 +52,7 @@ const zuzlifatul = {
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Tools
@@ -61,7 +65,9 @@ const zuzlifatul = {
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -74,6 +80,28 @@ const zuzlifatul = {
 | 🔥 **Memperdalam Laravel** | Membangun API yang *robust* & *scalable* dengan praktik terbaik (TDD) |
 | 📱 **Mobile Development** | Menguasai **Dart** & **Flutter** untuk membangun aplikasi Android & iOS dari satu basis kode |
 | 🌍 **Open Source** | Berkontribusi pada proyek *open-source* yang relevan dengan PHP & Kotlin |
+
+---
+
+## 🚀 Proyek Unggulan
+
+<div align="center">
+
+<a href="https://github.com/ZuzlifatulAdnan/flutter_presensi_face_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZuzlifatulAdnan&repo=flutter_presensi_face_app&theme=tokyonight&hide_border=true" alt="flutter_presensi_face_app" />
+</a>
+<a href="https://github.com/ZuzlifatulAdnan/sso-laravel-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZuzlifatulAdnan&repo=sso-laravel-server&theme=tokyonight&hide_border=true" alt="sso-laravel-server" />
+</a>
+
+<a href="https://github.com/ZuzlifatulAdnan/deteksi-emosi-yolo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZuzlifatulAdnan&repo=deteksi-emosi-yolo&theme=tokyonight&hide_border=true" alt="deteksi-emosi-yolo" />
+</a>
+<a href="https://github.com/ZuzlifatulAdnan/wa-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZuzlifatulAdnan&repo=wa-api&theme=tokyonight&hide_border=true" alt="wa-api" />
+</a>
+
+</div>
 
 ---
 
@@ -91,6 +119,40 @@ const zuzlifatul = {
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ZuzlifatulAdnan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+
+</div>
+
+---
+
+## 📈 Grafik Aktivitas
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZuzlifatulAdnan&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Kontribusi%20Zuzlifatul" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZuzlifatulAdnan/ZuzlifatulAdnan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZuzlifatulAdnan/ZuzlifatulAdnan/output/github-snake.svg" />
+  <img alt="Snake animation kontribusi GitHub" src="https://raw.githubusercontent.com/ZuzlifatulAdnan/ZuzlifatulAdnan/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💡 Kutipan Hari Ini
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
